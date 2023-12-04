@@ -1,0 +1,35 @@
+[
+  {
+    "roomNumber": 222,
+    "mapPosition": [
+      433.0,
+      271.0
+    ],
+    "name": "Room 124",
+    "description": "Lecture Hall in the Alumni Hall",
+    "locationDesc": "Near the entrance",
+    "category": "Lecture Hall"
+  },
+  {
+    "roomNumber": 102,
+    "mapPosition": [
+      421.0,
+      222.0
+    ],
+    "name": "Room 102",
+    "description": "Lecture Hall in the Alumni Hall",
+    "locationDesc": "Near the second exit",
+    "category": "Lecture Hall"
+  },
+  {
+    "roomNumber": 322,
+    "mapPosition": [
+      413.0,
+      251.0
+    ],
+    "name": "Washroom Men",
+    "description": "Washroom in the Alumni Hall",
+    "locationDesc": "Near the stairs",
+    "category": "Washroom"
+  }
+]

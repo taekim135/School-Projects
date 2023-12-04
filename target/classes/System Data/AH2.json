@@ -1,0 +1,35 @@
+[
+  {
+    "roomNumber": 210,
+    "mapPosition": [
+      342.0,
+      171.0
+    ],
+    "name": "Room 210",
+    "description": "Lecture Hall in the Alumni Hall",
+    "locationDesc": "Second Floor",
+    "category": "Lecture Hall"
+  },
+  {
+    "roomNumber": 222,
+    "mapPosition": [
+      433.0,
+      210.0
+    ],
+    "name": "Room 222",
+    "description": "Lecture Hall in the Alumni Hall",
+    "locationDesc": "Second Floor",
+    "category": "Lecture Hall"
+  },
+  {
+    "roomNumber": 212,
+    "mapPosition": [
+      380.0,
+      222.0
+    ],
+    "name": "Washroom Men",
+    "description": "Washroom in the Alumni Hall",
+    "locationDesc": "Near the stairs",
+    "category": "Washroom"
+  }
+]

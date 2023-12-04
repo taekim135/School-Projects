@@ -1,0 +1,24 @@
+[
+  {
+    "roomNumber": 322,
+    "mapPosition": [
+      520.0,
+      267.0
+    ],
+    "name": "Room 322",
+    "description": "Lecture room in MC",
+    "locationDesc": "Near the entrance",
+    "category": "Lecture hall"
+  },
+  {
+    "roomNumber": 333,
+    "mapPosition": [
+      371.0,
+      322.0
+    ],
+    "name": "Washroom Women",
+    "description": "Women's washroom in MC",
+    "locationDesc": "By the stairs",
+    "category": "Washroom"
+  }
+]

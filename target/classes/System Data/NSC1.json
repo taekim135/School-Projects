@@ -1,0 +1,24 @@
+[
+  {
+    "roomNumber": 100,
+    "mapPosition": [
+      380.0,
+      167.0
+    ],
+    "name": "Room 100",
+    "description": "Washroom Men",
+    "locationDesc": "Near the entrance",
+    "category": "Washroom"
+  },
+  {
+    "roomNumber": 110,
+    "mapPosition": [
+      374.0,
+      362.0
+    ],
+    "name": "Lecture Hall",
+    "description": "Lecture hall in NatSci",
+    "locationDesc": "Down the passage",
+    "category": "Lecture Hall"
+  }
+]
