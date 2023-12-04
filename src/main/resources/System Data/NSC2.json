@@ -1,0 +1,13 @@
+[
+  {
+    "roomNumber": 233,
+    "mapPosition": [
+      270.0,
+      171.0
+    ],
+    "name": "Washroom Men",
+    "description": "Washroom by the passage",
+    "locationDesc": "Test",
+    "category": "Washroom"
+  }
+]

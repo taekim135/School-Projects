@@ -1,0 +1,13 @@
+[
+  {
+    "roomNumber": 333,
+    "mapPosition": [
+      270.0,
+      71.0
+    ],
+    "name": "Test Floor 3",
+    "description": "Test",
+    "locationDesc": "Test",
+    "category": "Lecture hall"
+  }
+]
