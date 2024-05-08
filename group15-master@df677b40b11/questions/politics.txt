@@ -1,0 +1,30 @@
+0, What is the title of the UK's head of government?, the prime minister, 10
+0, What is the term for a system of government where power is divided between a central authority and smaller units?, federalism, 10
+0, What is the name of the US President’s official residence?, the white house, 10
+0, What is the initial of the US President assassinated in 1963?, JFK, 10
+0, What does U stands for in the acronyum EU?, union, 10
+0, The ANZUS agreement of 1951 is a security agreement between Australia USA and which nation?, New Zealand, 10
+0, What is the name of the street where the british prime minister resides in?, Downing street, 10
+0, What is the term for a basic monetary income provided to the citizens by the state known as "UBI"?, universal basic income, 10
+0, What is one of the three government branches that uphold the laws and court system?, Judiciary, 10
+0, What type of governmet system does Saudi Arabia adopts?, monarchy, 10
+1, In which city can you find the NATO headquarter?, Brussels, 20
+1, What nine-letter term starting with "I" serves as a noun or adjective that refers to the current holder of a political office?, Incumbent, 20
+1, What does R stands for in the term USSR?, Republics, 20
+1, How many head of states represents Switzerland in one sitting?, seven, 20
+1, What is the english name for the atlantic island disputed between Argentina and the UK?, Falkland islands, 20
+1, What was the name of the political movement to promote the UK's exit from the EU?, Brexit, 20
+1, OPEC is the political and economical alliance for countires with which resources?, oil, 20
+1, Which country held underwater cabinet meeting to highlight issues of rising sea level in 2009?, Maldives, 20
+1, What multisyllabic "G" word is used to describe the practice establishing a political advantage for a particular party or group by manipulating district boundaries?, Gerrymandering, 20
+1, Olaf Scholz heads the Social Democratic Party that narrowly edged out the Christian Democratic Union in the 2021 elections of what EU nation?, Germany, 20
+2, In which African city can you find the UN regional headquarter?, Nairobi, 30
+2, Which country governs the island of Reunion in the Indian Ocean?, France, 30
+2, Which country's parliament building is known as the "beehive"?, New Zealand, 30
+2, What word for a political activity can trace its origin back to the name of the agent of an absentee Irish landlord of the 19th century who was shunned and isolated by his neighbors?, boycott, 30
+2, Which country has the largest economy in the world as of 2023 based on purchasing power parity (PPP)?, China, 30
+2, What is the term for a situation where no state has sufficient power and influence to shape the international system?, Anarchy, 30
+2, Which city can you find the headquarter for ASEAN organisation?, Jakarta, 30
+2, What is the acronym for the organization that was founded in 1995 to regulate international trade and settle disputes among its members?, WTO, 30
+2, What is the term for a situation where one state has overwhelming power and influence in the international system?, unipolarity, 30
+2, Where is the judicial capital of South Africa?, Bloemfontein, 30

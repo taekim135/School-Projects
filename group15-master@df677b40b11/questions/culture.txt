@@ -1,0 +1,30 @@
+0, Who painted Mona Lisa?, Leonardo Da Vinci, 10
+0, What is the name of the European cultural period that followed the middle ages characterised by a surge of interest in Classical scholarship and values?, Renaissance, 10
+0, Who sang "Shake it off" in 2014, Taylor Swift, 10
+0, What does the acronym "SMH" stands for?, Shaking my head, 10
+0, How many harry potter books are there in a series?, 7, 10
+0, Where is Musee Louvre?, Paris, 10
+0, Which town does spongebob squarepants lives?, Bikini bottom, 10
+0, What was the name of the child character in a Roald Dahl novel who went to a chocolate factory?, Charlie, 10
+0, what type of media is marvel movie based off?, comics, 10
+0, Who wrote Game of thrones novel?, George R R Martin, 10
+1, Who wrote the famous teenage novel "Twilight", Stephenie Meyer, 20
+1, Who painted the famous impressionist painting "the scream"?, Edvard Munch, 20
+1, What is Picasso's first name?, Pablo, 20
+1, Which artist is know for painting a famous soup cans?, Andy Warhol, 20
+1, Which musician was know as "king of pop"?, Michael Jackson, 20
+1, What is the first computer generated 3D animation?, Toy Story, 20
+1, What is the name of the beyonce's 2023 tour?, Renaissance world tour, 20
+1, Which museum stores the famous statue "Milo of Venus", Louvre, 20
+1, What is Oliva Rodrigo's first number one hit single?, Drivers License, 20
+1, Who sang WAP with Cardi B?, Megan thee stallion, 20
+2, What is Rhianna's real name?, Robyn Fenty, 30
+2, Taylor swift wrote "bad blood" as a distrack to which pop star?, Katie Perry, 30
+2, What was Musee D'orsay used as before it became a museum, Train station, 30
+2, Which artist is famous for her 2011 single "Lights"?, Ellie Goulding, 30
+2, What is the famous rapper Eminenm's real first name? Marshall, 30
+2, Who portrayed the character Maximus Decimus Meridius in the move "Gladiator"?, Russell Crowe, 30
+2, In which city did JK rowling first wrote about Harry Potter?, Edinburgh, 30
+2, Who composed "La Campanella"?, Franz Liszt, 30
+2, Who is the captain of the ship in the novel "Moby Dick"?, Captain Ahab, 30
+2, What is the name of the tiger in a novel "Life of Pi"?, Richard Parker, 30
