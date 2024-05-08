@@ -1,0 +1,30 @@
+0, How many hydrogen molecules are there in a water molecule?, two, 10
+0, what is the elemental symbol of Carbon?, C, 10
+0, Which cellular organelle is known as "the powerhouse of the cell"?, mitochondria, 10
+0, Which scientist is known for discovering the theory of relativity?, Albert Einstein, 10
+0, Which physical term defines the following "the force by which planet or other body draws objects towards its centre"?, gravity, 10
+0, Mac or Macintosh is name of the computer device for which company?, Apple, 10
+0, What is the name of the 4th planet in our solar system?, Mars, 10
+0, Pythagoras theorem mainly deals with which geometric shape?, triangle, 10
+0, What is the elemental symbol of Iron?, Fe, 10
+0, By which biochemical mechanism do plants gain energy through sunlight?, Photosynthesis, 10
+1, What disease is caused by vitamin C deficiency characterised by bleeding gum?, Scurvy, 20
+1, How many moon does Mercury have?, zero, 20
+1, Which scientist is known for discovering mass displacement while taking a bath and shouting "Eureka"?, Archimedes, 20
+1, Which computer scientist is known for developing the basis for modern Linux operating system in 1991?, Linus Torvalds, 20
+1, Is this statement true or false? "Addition with integer is a closed operation", true, 20
+1, When we refer to the chemical reaction as oxidation is it gaining or losing electrons?, losing, 20
+1, The term "Canis Lupus Familiaris" refers to which common household pet?, dog, 20
+1, What is the biggest bone in human body?, femur, 20
+1, Which law of thermodynamics states that in isolaated thermodynamic process the energy can be transformed from one isolated system to the other but can neither be created or destroyed?, first, 20
+1, What does A in DNA stands for?, Acid, 20
+2, What type of speciation refers to the phenomena where speicies seperates into two seperate groups due to an isolation such as geographical or physical barrier?, Allopatric speciation, 30
+2, Which satellite first reached the planet of Jupiter in 1989?, Galileo, 30
+2, If a patient have MRSA which last line antibiotics is the patient resistant to?, Methicillin, 30
+2, What is the name of the major faultline that crosses through California?, San Andreas, 30
+2, How many protons does most common stable Calcium have?, twenty, 30
+2, Glioblastoma is a type of aggresive cancer that occurs in which organ?, brain, 30
+2, In which atmospheric layer do aurora occurs?, thermosphere, 30
+2, What is the distinctive colour of sodium fire?, Yellow, 30
+2, Which quantum physical term describes a phenomena where object such as electron or atom passes through a potential energy barrier without having sufficient energy to do so?, quantum tunnelling, 30
+1, Which milllennium prize problem has been solved as of 2023?, Poincare conjecture, 30

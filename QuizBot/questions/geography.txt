@@ -1,0 +1,30 @@
+0, What's the capital of Germany?, Berlin, 10
+0, Which country is famous for their national bird Kiwi?, New Zealand, 10
+0, What is the northernmost country in the UK?, Scotland, 10
+0, Which north american city is known as "the big apple"?, New York, 10
+0, the Amazon river runs across which country?, Brazil, 10
+0, which african city can you find the pyramid of Giza?, Cairo, 10
+0, in which ocean is the american state of Hawaii located in?, Pacific Ocean, 10
+0, which country has the tallest mountain measured from the sea level?, Nepal, 10
+0, in which country is the famous city of Dubai located in?, United Arab Emirates, 10
+0, What is the capital of canada?, Ottawa, 10
+1, which coastal city in China near Hong Kong is known for their Casinos and spanish influence?, Macau, 20
+1, What is the capital of Argentina?, Buenos Aires, 20
+1, Talinn is a capital city of which post soviet country?, Estonia, 20
+1, Tallahassee is the capital of which american state?, Florida, 20
+1, In which country can you find the vast tundra expanse called Siberia?, Russia, 20
+1, How many country does the Netherlands border?, two, 20
+1, The site of Chernobyl disaster can be found in which post soviet country?, Ukraine, 20
+1, the famous Incan ruin of Machu Picchu can be found in which country?, Peru, 20
+1, what is the capital of Indonesia?, Jakarta, 20
+1, In which country can you find the Suez Canal?, Egypt, 20
+2, What is the capital of Angola?, Luanda, 30
+2, Which country governs the Pacific island of New Caledonia?, France, 30
+2, which country has the longest coastline? Canada, 30
+2, What is the name of the northernmost island/prefecture in Japan?, Hokkaido, 30
+2, "Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman Awatan Sathit Sakkathattiya Witsanukam Prasit" is a full name of which capital city?, Bangkok, 30
+2, In which country can you find the colourful merchant canal "Nyhavn"?, Denmark, 30
+2, what is the name of the southernmost capital city in the world?, Wellington, 30
+2, which continent is the "North sea" closest to?, Europe, 30
+2, Lesotho is an African country/enclave surrounded by which country?, South Africa, 30
+2, What is the country closest to the French territory of Saint Pierre and Miquelon?, Canada, 30

@@ -1,0 +1,30 @@
+0, The olympics are held every how many years?, four, 10
+0, how many players are on a basketball team?, five, 10
+0, What sports involves sliding stones on ice towards a target?, curling, 10
+0, Who is recorded as the fastest runner in history as of 2023?, Usain Bolt, 10
+0, Which city hosted the 2008 summer olympics?, Beijing, 10
+0, what sport uses shuttlecock and a racket?, badminton, 10
+0, which country won the first ever footbal world cup?, Uruguay, 10
+0, what does NBA stand for?, National Basketball Association, 10
+0, how many holes are played in an average round of golf?, eighteen, 10
+0, What body part cannot touch the ball in soccer?, hands, 10
+1, what type of race is Tour de France?, bicycle, 20
+1, What team owns the longest winning streak in NBA history as of 2023?, Los Angeles Lakers, 20
+1, What team gets the advantage of the first bat in baseball?, the visiting team, 20
+1, Who was the first british player to win league titles in four countries for soccer?, David Beckham, 20
+1, Between serena and venus williams who has won more tennis grand slam titles?, serena williams, 20
+1, what is the national sport of Canada?, Lacrosse, 20
+1, What pattern flag they wave during motor racing to indicate the winner?, checkered flag, 20
+1, what colour are the goalposts in football?, yellow, 20
+1, How long is the olympic-sized swimming pool in meters?, fifty, 20
+1, What is the name of the object hockey players uses to score goals?, puck, 20
+2, Which winter sport uses the terms stale fish and mule kick?, snowboarding, 30
+2, How many olympic games were held in countries that no longer exist as of 2023?, three, 30
+2, what is the only sport to be played on the moon as of 2023?, golf, 30
+2, How old was Tiger Woods when he won the Masters?, twenty one, 30
+2, What team is considered the oldest in the NFL?, Green Bay Packers, 30
+2, What material was first used to cover baseballs?, cowhide, 30
+2, Which country won the first women's world cup?, the United States, 30
+2, What sport is called the "sport of kings"?, polo, 30
+2, Where do you have to go in order to score touchdown in football?, end zone, 30
+2, what country has competed the most times in the summer olympics yet hasn't won any kind of medal?, Liechtenstein, 30
