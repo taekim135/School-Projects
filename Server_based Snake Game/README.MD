@@ -26,9 +26,7 @@
 
 ### How to run:
 
-  python3 snake_server.py
-
-1. "python3 snake_server.py" to start the game server
+1.  'python3 snake_server.py' to start the game server
 2. "python3 snake_client.py" to start the client/game window
 3. run step 2 again on a new terminal window to add another player
 
